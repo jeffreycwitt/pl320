@@ -302,7 +302,7 @@
 
 ## Mar 21 Homework
 
-* Hurley 7.3-7.4
+* Hurley 7.3
   * 7.3
     * Practice
       * Sect. I: All stars
@@ -316,6 +316,7 @@
 
 ## Mar 23 Homework
 
+* Hurley 7.4
   * 7.4
     * Practice
       * Sect. I: All stars
