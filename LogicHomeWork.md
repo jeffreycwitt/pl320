@@ -26,6 +26,7 @@
 - [Apr 18 Homework](#apr-18-homework)
 - [Apr 20 Homework](#apr-20-homework)
 - [Apr 25 Homework](#apr-25-homework)
+- [Apr 27 Homework](#apr-27-homework)
 
 <!-- </div>
 
@@ -426,6 +427,10 @@
       * Sect. I: 3, 10, 14, 18, 27, 32, 43
       * Sect. II: 14, 15
       * Sect. III: 11, 12
+
+## Apr 27 Homework
+
+* Passage Analysis
 
 <!-- </div> -->
 
