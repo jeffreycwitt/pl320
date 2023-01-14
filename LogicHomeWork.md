@@ -52,12 +52,11 @@
     * Practice
       * Sect. I: all stars
       * Sect. II: all stars
-      * Sect. IV: all
-      * Sect. V: all
       * Sect VI: all stars
     * **Turn In Via Moodle**
       * Sect. I: 33, 35
       * Sect. II: 8, 9
+      * Sect. V: all
       * Sect. VI: 8, 9
   * 1.3
     * Practice
