@@ -43,11 +43,10 @@
     * Practice
       * Sect. I: all stars
       * Sect. II: all stars
-      * Sect. III: all
-      * Sect. IV: all
     * **Turn In Via Moodle**
-      * Sect I: 21, 24, 27
-      * Sect II: 9
+      * Sect. I: 21, 24, 27
+      * Sect. II: 9
+      * Sect. IV: all
   * 1.2
     * Practice
       * Sect. I: all stars
