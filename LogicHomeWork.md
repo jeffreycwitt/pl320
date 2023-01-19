@@ -38,6 +38,8 @@
 
 ## Jan 19 Homework
 
+* [Turn In Answers](LogicHomeWorkTurnInAnswers.html#jan-19-turn-in-homework-answers)
+
 * Hurley 1.1-1.3
   * 1.1
     * Practice
