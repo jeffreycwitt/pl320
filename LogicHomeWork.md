@@ -38,7 +38,7 @@
 
 ## Jan 19 Homework
 
-* [Turn In Answers](LogicHomeWorkTurnInAnswers.html#jan-19-turn-in-homework-answers)
+* [Turn In Answers](prob-answers/jan19-hw.html)
 
 * Hurley 1.1-1.3
   * 1.1
