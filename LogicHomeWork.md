@@ -98,6 +98,8 @@
 
 ## Jan 26 Homework
 
+* [Turn In Answers](prob-answers/jan26-hw.html)
+* 
 * Hurley 4.1-1.2
   * 4.1
     * Practice
