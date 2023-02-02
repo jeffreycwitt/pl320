@@ -99,7 +99,7 @@
 ## Jan 26 Homework
 
 * [Turn In Answers](prob-answers/jan26-hw.html)
-* 
+  
 * Hurley 4.1-1.2
   * 4.1
     * Practice
@@ -119,6 +119,8 @@
       * Sect. IV: 6, 8 
   
 ## Jan 31 Homework
+
+* [Turn In Answers](prob-answers/jan31-hw.html)
 
 * Hurley 4.3-4.4
   * 4.3
@@ -176,6 +178,11 @@
     * Turn In
       * Sect. I: 56, 57, 59, 60
       * Sect. III: 8, 9
+  
+
+## Feb 09 Homework
+
+* Hurley 5.1-5.3
   * 5.1
     * Practice
       * Sect. I: All stars
@@ -188,10 +195,6 @@
       * Sect. III: 9
       * Sect. IV: 5
       * Sect. V: All
-
-## Feb 09 Homework
-
-* Hurley 5.2-5.3
   * 5.2
     * Practice
       * Sect. I: All stars
