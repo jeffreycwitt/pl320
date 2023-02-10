@@ -172,7 +172,9 @@
 
 ## Feb 07 Homework
 
-* Hurley 4.7-5.1
+* [Turn In Answers](prob-answers/feb7-hw.html)
+ 
+* Hurley 4.7
   * 4.7
     * Practice
       * Sect. I: All stars
@@ -184,6 +186,8 @@
 
 ## Feb 09 Homework
 
+* [Turn In Answers](prob-answers/feb9-hw.html)
+  
 * Hurley 5.1-5.3
   * 5.1
     * Practice
