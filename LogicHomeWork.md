@@ -269,7 +269,14 @@
 
 ## Mar 02 Homework
 
-* Hurley 6.4-6.5
+* Hurley 6.3-6.5
+  
+  * 6.3
+    * Practice
+      * Sect. I: All stars
+      * Sect. II: All stars
+    * Turn In
+      * Sect. II: 14, 15
   * 6.4
     * Practice
       * Sect. I: All stars
@@ -288,8 +295,8 @@
 
 ## Mar 14 Homework
 
-* Hurley 6.7
-  * 6.7
+* Hurley 6.6
+  * 6.6
     * Practice
       * Sect. I: All stars
       * Sect. II: All stars
