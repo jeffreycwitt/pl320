@@ -279,6 +279,8 @@
       * Sect. II: All stars
     * Turn In
       * Sect. II: 14, 15 -->
+  * 6.3
+    * Nothing
   * 6.4
     * Practice
       * Sect. I: All stars
