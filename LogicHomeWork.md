@@ -247,6 +247,8 @@
   
 ## Feb 28 Homework
 
+* [Turn In Answers](prob-answers/feb28-hw.html)
+
 * Hurley 6.1-6.2
   * 6.1
     * Practice
@@ -271,12 +273,12 @@
 
 * Hurley 6.3-6.5
   
-  * 6.3
+  <!-- * 6.3
     * Practice
       * Sect. I: All stars
       * Sect. II: All stars
     * Turn In
-      * Sect. II: 14, 15
+      * Sect. II: 14, 15 -->
   * 6.4
     * Practice
       * Sect. I: All stars
