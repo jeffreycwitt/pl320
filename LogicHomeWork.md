@@ -271,6 +271,8 @@
 
 ## Mar 02 Homework
 
+* [Turn In Answers](prob-answers/mar2-hw.html)
+  
 * Hurley 6.3-6.5
   
   <!-- * 6.3
@@ -299,6 +301,8 @@
 
 ## Mar 14 Homework
 
+* [Turn In Answers](prob-answers/mar14-hw.html)
+
 * Hurley 6.6
   * 6.6
     * Practice
@@ -309,6 +313,8 @@
       * Sect. V: 6, 8
 
 ## Mar 16 Homework
+
+* [Turn In Answers](prob-answers/mar16-hw.html)
 
 * Hurley 7.1-7.2
   * 7.1
