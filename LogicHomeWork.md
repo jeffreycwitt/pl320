@@ -394,18 +394,21 @@
       * Sect. I: All stars
     * Turn In
       * Sect. I: 38, 39, 54, 56
-  * 8.2
+ 
+  
+## Apr 13 Homework
+
+ * 8.2
     * Practice
       * Sect. I: All stars
       * Sect. II: All stars
     * Turn In
-      * Sect. I: 21
-      * Sect. II: 6
-      * Sect. III: All
-  
-## Apr 13 Homework
+      * Sect. I: 18, 20, 21
+      * Sect. II: 6, 8, 9
 
-* Hurley 8.3
+## Apr 18 Homework
+
+* Hurley 8.3-8.4
   * 8.3
     * Practice
       * Sect. I: All stars
@@ -421,7 +424,7 @@
       * Sect. I: 15, 17
       * Sect. II: 6, 8
 
-## Apr 18 Homework
+## Apr 20 Homework
 
 * Hurley 8.5
   * 8.5
@@ -434,7 +437,7 @@
       * Sect. II: 8
       * Sect. III: 3
 
-## Apr 20 Homework
+## Apr 25 Homework
 
 * Hurley 8.6
   * 8.6
@@ -447,7 +450,7 @@
       * Sect. II: 15, 17
       * Sect. III: 8, 9
 
-## Apr 25 Homework
+## Apr 27 Homework
 
 * Hurley 8.7
   * 8.7
@@ -459,10 +462,7 @@
       * Sect. I: 3, 10, 14, 18, 27, 32, 43
       * Sect. II: 14, 15
       * Sect. III: 11, 12
-
-## Apr 27 Homework
-
-* Passage Analysis
+  
 
 <!-- </div> -->
 
