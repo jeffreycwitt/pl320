@@ -433,8 +433,8 @@
       * Sect. II: All stars
       * Sect. III: All stars
     * Turn In
-      * Sect. I: 9
-      * Sect. II: 8
+      * Sect. I: 5
+      * Sect. II: 5
       * Sect. III: 3
 
 ## Apr 25 Homework
