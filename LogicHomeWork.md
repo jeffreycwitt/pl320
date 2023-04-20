@@ -443,8 +443,6 @@
   * 8.6
     * Practice
       * Sect. I: All stars
-      * Sect. II: All stars
-      * Sect. III: All stars
     * Turn In
       * Sect. I: 15, 18, 20, 23, 24
       
