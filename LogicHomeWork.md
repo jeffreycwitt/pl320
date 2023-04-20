@@ -446,13 +446,19 @@
       * Sect. II: All stars
       * Sect. III: All stars
     * Turn In
-      * Sect. I: 23, 24
-      * Sect. II: 15, 17
-      * Sect. III: 8, 9
+      * Sect. I: 15, 18, 20, 23, 24
+      
 
 ## Apr 27 Homework
 
-* Hurley 8.7
+* Hurley 8.6 and 8.7
+  * 8.6
+    * Practice
+      * Sect. II: All stars
+      * Sect. III: All stars
+    * Turn In
+      * Sect. II: 15, 17
+      * Sect. III: 8, 9
   * 8.7
     * Practice
       * Sect. I: All stars
