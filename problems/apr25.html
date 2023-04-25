@@ -1,0 +1,86 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="../js/reveal/dist/theme/white.css">
+    <link rel="stylesheet" href="../js/reveal/dist/reveal.css">
+    <script src="../js/reveal/dist/reveal.js"></script>
+    <script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section>
+          <p>April 25</p>
+        </section>
+        <section>
+          <p>Common Mistakes</p>
+        </section>
+        <section>
+          <p>Deduction with Overlapping Quantifiers</p>
+        </section>
+        <section>
+          <p>Translation With Identity</p>
+        </section>
+        <section>
+          <p>1. Simple Identity Statements</p>
+          <hr/>
+          <p>Superman is Clark Kent</p>
+          <!-- s = c -->
+        </section>
+        <section>
+          <p>2. Only, The Only, None...Except</p>
+          <hr/>
+          <p>Only Joe Biden is President</p>
+          <!-- <p>Pj and (x)(Px -> x = j)</p> -->
+        </section>
+        <section>
+          <p>2. Only, The Only, None...Except</p>
+          <hr/>
+          <p>The only person who is president is Joe Biden</p>
+          <!-- <p>Pj * PRj and (x)(Px * PRx -> x = j)</p> -->
+        </section>
+        <section>
+          <p>2. Only, The Only, None...Except</p>
+          <hr/>
+          <p>No one is President except Joe Biden</p>
+          <!-- <p>Pj and (x)(Px -> x = j</p> -->
+        </section>
+        <section>
+          <p>3. All Except</p>
+          <p>Everyone except Bob is an Actor</p>
+          <!-- <p>Pb * Ab * (x)(Px * x != b -> Ax)</p> -->
+        </section>
+        <section>
+          <p>4. Superlative</p>
+          <p>Bob is the Best Cook</p>
+          <!-- Cb * (x)(Cx -> Bbx) -->
+        </section>
+        <section>
+          <p>5. Numerical Statement: At most</p>
+          <p>There at most two people in this class</p>
+          <!-- (x)(y)(z)(Px * Cx * Py * Cx * Pz * Cz -> x = y or x = z or y = z) -->
+          <!-- at most-->
+        </section>
+        <section>
+          <p>5. Numerical Statement: At least</p>
+          <p>There are at least two people in this class</p>
+          <!-- EQxEQy(Px * Cx * Py * Cy * x != y ) -->
+          <!-- at least-->
+        </section>
+        <section>
+          <p>5. Numerical Statement: Exactly</p>
+          <p>There are exactly two people in this class</p>
+          <!-- EQxEQy(Px * Cx * Py * Cy * x != y * (z)(Pz * Cz -> z = x or z = y )) -->
+        </section>
+        <section>
+          <p>6. Definite Description</p>
+          <p>The Person who stole Christmas was the Grinch</p>
+          <!-- (EQx)(Px * Sx) * (y)((Px * Sx) -> y = x) * x = g) -->
+        </section>
+      </div>
+    </div>
+    <script src="dist/reveal.js"></script>
+    <script>
+      Reveal.initialize();
+    </script>
+    </body>
+  </html>
