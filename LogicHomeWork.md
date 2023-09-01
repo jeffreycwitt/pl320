@@ -5,28 +5,17 @@
 
 <!-- <div style="width: 20%; height: 100vh; overflow: scroll; position: fixed; left: 0; top:0; margin-top: 150px"> -->
 
-- [Jan 19 Homework](#jan-19-homework)
-- [Jan 24 Homework](#jan-24-homework)
-- [Jan 26 Homework](#jan-26-homework)
-- [Jan 31 Homework](#jan-31-homework)
-- [Feb 02 Homework](#feb-02-homework)
-- [Feb 07 Homework](#feb-07-homework)
-- [Feb 09 Homework](#feb-09-homework)
-- [Feb 14 Homework](#feb-14-homework)
-- [Feb 16 Homework](#feb-16-homework)
-- [Feb 28 Homework](#feb-28-homework)
-- [Mar 02 Homework](#mar-02-homework)
-- [Mar 14 Homework](#mar-14-homework)
-- [Mar 16 Homework](#mar-16-homework)
-- [Mar 21 Homework](#mar-21-homework)
-- [Mar 23 Homework](#mar-23-homework)
-- [Mar 28 Homework](#mar-28-homework)
-- [Apr 11 Homework](#apr-11-homework)
-- [Apr 13 Homework](#apr-13-homework)
-- [Apr 18 Homework](#apr-18-homework)
-- [Apr 20 Homework](#apr-20-homework)
-- [Apr 25 Homework](#apr-25-homework)
-- [Apr 27 Homework](#apr-27-homework)
+- [Sept 7 Homework (Due 11:59pm Sept 6)](#sept-7-homework-due-1159pm-sept-6)
+- [Sept 14 Homework (Due 11:59pm Sept 13)](#sept-14-homework-due-1159pm-sept-13)
+- [Sept 21 Homework (Due 11:59pm Sept 20)](#sept-21-homework-due-1159pm-sept-20)
+- [Sept 28 Homework (Due 11:59pm Sept 27)](#sept-28-homework-due-1159pm-sept-27)
+- [Oct 6 Homework (Due 11:59pm Oct 5)](#oct-6-homework-due-1159pm-oct-5)
+- [Oct 19 Homework (Due 11:59pm Oct 18)](#oct-19-homework-due-1159pm-oct-18)
+- [Oct 26 Homework (Due 11:59pm Oct 25)](#oct-26-homework-due-1159pm-oct-25)
+- [Nov 2 Homework (Due 11:59pm Nov 1)](#nov-2-homework-due-1159pm-nov-1)
+- [Nov 16 Homework (Due 11:59pm Nov 15)](#nov-16-homework-due-1159pm-nov-15)
+- [Nov 30 Homework (Due 11:59pm Nov 29)](#nov-30-homework-due-1159pm-nov-29)
+- [Dec 7 Homework (Due 11:59pm Dec 6)](#dec-7-homework-due-1159pm-dec-6)
 
 <!-- </div>
 
@@ -36,9 +25,7 @@
 
 ---
 
-## Jan 19 Homework
-
-* [Turn In Answers](prob-answers/jan19-hw.html)
+## Sept 7 Homework (Due 11:59pm Sept 6)
 
 * Hurley 1.1-1.3
   * 1.1
@@ -66,11 +53,9 @@
       * Sect. I: 26, 27, 29, 30
       * Sect. III: all
   
-## Jan 24 Homework
-
-* [Turn In Answers](prob-answers/jan24-hw.html)
+## Sept 14 Homework (Due 11:59pm Sept 13)
   
-* Hurley 1.4-1.6
+* Hurley 1.4-1.6 and 4.1-4.2
   * 1.4
     * Practice
       * Sect. I: All stars
@@ -95,12 +80,6 @@
     * Turn In Via Moodle
       * Sect. I: 14, 15
       * Sect. II: 11, 12
-
-## Jan 26 Homework
-
-* [Turn In Answers](prob-answers/jan26-hw.html)
-  
-* Hurley 4.1-1.2
   * 4.1
     * Practice
       * Sect. I: All stars
@@ -118,11 +97,9 @@
       * Sect. III: 6, 8
       * Sect. IV: 6, 8 
   
-## Jan 31 Homework
+## Sept 21 Homework (Due 11:59pm Sept 20)
 
-* [Turn In Answers](prob-answers/jan31-hw.html)
-
-* Hurley 4.3-4.4
+* Hurley 4.3-4.6
   * 4.3
     * Practice
       * Sect. I: All stars
@@ -142,12 +119,6 @@
       * Sect. I: 11, 12
       * Sect. II: 1d, 2d, 3d
       * Sect. III: 18, 20
-  
-## Feb 02 Homework
-
-* [Turn In Answers](prob-answers/feb2-hw.html)
-
-* Hurley 4.5-4.6
   * 4.5
     * Practice
       * Sect. I: All stars
@@ -170,11 +141,9 @@
     * Turn In
       * Sect. II: 12, 14, 15
 
-## Feb 07 Homework
-
-* [Turn In Answers](prob-answers/feb7-hw.html)
+## Sept 28 Homework (Due 11:59pm Sept 27)
  
-* Hurley 4.7
+* Hurley 4.7 and 5.1-5.3
   * 4.7
     * Practice
       * Sect. I: All stars
@@ -182,13 +151,6 @@
     * Turn In
       * Sect. I: 56, 57, 59, 60
       * Sect. III: 8, 9
-  
-
-## Feb 09 Homework
-
-* [Turn In Answers](prob-answers/feb9-hw.html)
-  
-* Hurley 5.1-5.3
   * 5.1
     * Practice
       * Sect. I: All stars
@@ -220,11 +182,9 @@
       * Sect. II: 8
       * Sect. III: All
 
-## Feb 14 Homework
-
-* [Turn In Answers](prob-answers/feb14-hw.html)
+## Oct 6 Homework (Due 11:59pm Oct 5)
   
-* Hurley 5.4-5.5
+* Hurley 5.4-5.7
   * 5.4
     * Practice
       * Sect. I: All stars
@@ -235,9 +195,6 @@
       * Sect. I: All stars
     * Turn In
       * Sect. I: 9, 11, 12
-  
-## Feb 16 Homework
-
 * Analysis of Plato's argument that Philosophers are Eager for Death (Phaedo 61a-67e)
   * Review the definition of a Sorites (Hurley 5.7)
   * Outline the structure of the argument using Categorical Propositions and Categorical Syllogism
@@ -245,11 +202,9 @@
   * After identify the structure of the argument analyze the argument, answering the following question:
     * Based on your break down are there any weak points in this argument? What conclusions depend on hidden assumptions? Are these valid assumptions or do they require further demonstration?
   
-## Feb 28 Homework
+## Oct 19 Homework (Due 11:59pm Oct 18)
 
-* [Turn In Answers](prob-answers/feb28-hw.html)
-
-* Hurley 6.1-6.2
+* Hurley 6.1-6.5
   * 6.1
     * Practice
       * Sect. I: All stars
@@ -267,20 +222,7 @@
       * Sect. I: 9
       * Sect. II: 12
       * Sect. III: 23
-      * Sect. IV: 12
-
-## Mar 02 Homework
-
-* [Turn In Answers](prob-answers/mar2-hw.html)
-  
-* Hurley 6.3-6.5
-  
-  <!-- * 6.3
-    * Practice
-      * Sect. I: All stars
-      * Sect. II: All stars
-    * Turn In
-      * Sect. II: 14, 15 -->
+      * Sect. IV: 12  
   * 6.3
     * Nothing
   * 6.4
@@ -299,11 +241,9 @@
       * Sect. II: 11, 12
       * Sect. III: 6, 8
 
-## Mar 14 Homework
+## Oct 26 Homework (Due 11:59pm Oct 25)
 
-* [Turn In Answers](prob-answers/mar14-hw.html)
-
-* Hurley 6.6
+* Hurley 6.6-6.7 and 7.1-7.2
   * 6.6
     * Practice
       * Sect. I: All stars
@@ -311,12 +251,6 @@
     * Turn In
       * Sect. IV: All
       * Sect. V: 6, 8
-
-## Mar 16 Homework
-
-* [Turn In Answers](prob-answers/mar16-hw.html)
-
-* Hurley 7.1-7.2
   * 7.1
     * Practice
       * Sect. I: All stars
@@ -333,9 +267,9 @@
       * Sect. III: 23, 24
       * Sect. IV: 5, 6, 8
 
-## Mar 21 Homework
+## Nov 2 Homework (Due 11:59pm Nov 1)
 
-* Hurley 7.3
+* Hurley 7.3-7.7
   * 7.3
     * Practice
       * Sect. I: All stars
@@ -346,10 +280,6 @@
       * Sect. III: 29
       * Sect. IV: 8
       * Sect. V: All
-
-## Mar 23 Homework
-
-* Hurley 7.4
   * 7.4
     * Practice
       * Sect. I: All stars
@@ -360,10 +290,6 @@
       * Sect. III: 29
       * Sect. IV: 8
       * Sect. V: All
-
-## Mar 28 Homework
-
-* Hurley 7.5-7.7
   * 7.5
     * Practice
       * Sect. I: All stars
@@ -386,7 +312,7 @@
     * Turn In
       * Sect. I: 14, 15
 
-## Apr 11 Homework
+## Nov 16 Homework (Due 11:59pm Nov 15)
 
 * Hurley 8.1-8.2
   * 8.1
@@ -394,10 +320,6 @@
       * Sect. I: All stars
     * Turn In
       * Sect. I: 38, 39, 54, 56
- 
-  
-## Apr 13 Homework
-
  * 8.2
     * Practice
       * Sect. I: All stars
@@ -406,9 +328,9 @@
       * Sect. I: 18, 20, 21
       * Sect. II: 6, 8, 9
 
-## Apr 18 Homework
+## Nov 30 Homework (Due 11:59pm Nov 29)
 
-* Hurley 8.3-8.4
+* Hurley 8.3-8.5
   * 8.3
     * Practice
       * Sect. I: All stars
@@ -423,10 +345,6 @@
     * Turn In
       * Sect. I: 15, 17
       * Sect. II: 6, 8
-
-## Apr 20 Homework
-
-* Hurley 8.5
   * 8.5
     * Practice
       * Sect. I: All stars
@@ -437,24 +355,16 @@
       * Sect. II: 5
       * Sect. III: 3
 
-## Apr 25 Homework
+## Dec 7 Homework (Due 11:59pm Dec 6)
 
 * Hurley 8.6
   * 8.6
     * Practice
       * Sect. I: All stars
-    * Turn In
-      * Sect. I: 15, 18, 20, 23, 24
-      
-
-## Apr 27 Homework
-
-* Hurley 8.6 and 8.7
-  * 8.6
-    * Practice
       * Sect. II: All stars
       * Sect. III: All stars
     * Turn In
+      * Sect. I: 15, 18, 20, 23, 24
       * Sect. II: 15, 17
       * Sect. III: 8, 9
   * 8.7
